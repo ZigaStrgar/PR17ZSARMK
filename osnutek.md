@@ -23,9 +23,9 @@ Ob vseh podatkih, ki nam jih ta dataset omogoča smo si zastavili naslednje cilj
 ## Atributi
 
 Dataset vsebuje kar nekaj atributov, ki dokaj natančno opišejo sam umor in vse udeležence.
-- [ ] Vir poročila (FBI in FOIA)
-- [ ] Starost, rasa, spol, etnična pripadnost žrtev in storilcev
-- [ ] Odnos med žrtvijo in storilcem
-- [ ] Uporabljeno orožje
-- [ ] Zvezna država, kraj, leto in mesec
-- [ ] Vrsta umora in ali je bil rešen
+- Vir poročila (FBI in FOIA)
+- Starost, rasa, spol, etnična pripadnost žrtev in storilcev
+- Odnos med žrtvijo in storilcem
+- Uporabljeno orožje
+- Zvezna država, kraj, leto in mesec
+- Vrsta umora in ali je bil rešen
