@@ -16,6 +16,6 @@ Za naš dataset smo vzeli obstoječ [dataset iz Kaggle](https://www.kaggle.com/m
 
 Ob vseh podatkih, ki nam jih ta dataset omogoča smo si zastavili naslednje cilje:
 
-[] Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca
-[] Povezava med spolom in uporabljenim orožjem
-[] Razmerje rešenih primerov med tipi policije rezdeljene po državah
+- [ ] Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca
+- [ ] Povezava med spolom in uporabljenim orožjem
+- [ ] Razmerje rešenih primerov med tipi policije rezdeljene po državah
