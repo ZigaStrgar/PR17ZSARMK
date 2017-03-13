@@ -6,7 +6,7 @@
 | -------------- | --------------- |
 | Žiga Strgar | 63150274 |
 | Aljaž Romih | 63150248 |
-| Mark Kuhar | 63150XXX |
+| Mark Kuhar | 63150170 |
 
 ## Seminarska naloga
 
