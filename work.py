@@ -76,7 +76,8 @@ reports = np.array(reports)
 
 years = set(reports[:, 8])
 weapons = set(reports[:, 11])
-state = "South Dakota"
+solution = set(reports[:, 23])
+state = "California"
 
 ###
 # Zanimivi stati:
@@ -85,11 +86,15 @@ state = "South Dakota"
 # Hawaii
 ###
 
-reports_by_year = {int(year): len(reports[reports[:, 8] == year, 1]) for year in years}
-reports_by_year_in_state = {int(year): len(reports[(reports[:, 6] == state) & (reports[:, 8] == year), 1]) for year in
-                            years}
+#reports_by_year = {int(year): len(reports[reports[:, 8] == year, 1]) for year in years}
+#reports_by_year_in_state = {int(year): len(reports[(reports[:, 6] == state) & (reports[:, 8] == year), 1]) for year in
+ #                           years}
 reports_by_weapon = [(len(reports[reports[:, 11] == weapon, 1]), weapon) for weapon in weapons]
+solutions = [(len(reports[reports[:, 23] == sol]), sol) for sol in solution]
 
-histogram(reports_by_year, "Crimes per year in USA", "Year", "Number of crimes")
-histogram(reports_by_year_in_state, "Crimes per year in USA in state of {}".format(state), "Year", "Number of crimes")
+print("Should be here")
+
+# histogram(reports_by_year, "Crimes per year in USA", "Year", "Number of crimes")
+# histogram(reports_by_year_in_state, "Crimes per year in USA in state of {}".format(state), "Year", "Number of crimes")
 barh(sorted(reports_by_weapon), "Number of crimes committed by weapon", "# of crimes", "Weapon")
+barh(sorted(solutions), "Difference between solved and unsolved crimes", "# of crimes", "Crime solved")
