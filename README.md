@@ -42,7 +42,7 @@ Razmerje moških morilcev proti ženskim glede na raso
 ![Number of crimes committed with weapon](pictures/gender_by_race.png)
 
 Število poročil glede na mesec
-![Number of crimes committed with weapon](pictures/crimes_by_month.png)
+![Number of crimes committed with weapon](pictures/crimes_per_month.png)
 
 ## Uporabljena koda
 
