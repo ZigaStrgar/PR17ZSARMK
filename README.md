@@ -6,9 +6,9 @@ Vzeli smo dataset vseh umorov v ZDA od leta 1980 do 2014, ki vsebuje več kot 61
 ki so se končale s smrtnim izzidom.
 
 Zastavili smo si sledeča vprašanja/cilje:
-- [ ] Razmerje rešenih primerov med tipi policije rezdeljene po državah
-- [ ] Povezava med spolom in uporabljenim orožjem
-- [ ] Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca
+- [ ] Razmerje rešenih primerov med tipi policije rezdeljene po državah,
+- [ ] Povezava med spolom in uporabljenim orožjem,
+- [ ] Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca.
 
 ## Podatki
 
