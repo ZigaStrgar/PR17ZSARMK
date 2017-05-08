@@ -22,6 +22,9 @@ državnega organa, ki je primer reševala.
 Število poročil glede na uporabljeno orožje
 ![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
 
+Uporaba orožja na Havajih
+![Weapons in Hawaii](pictures/hawaii_weapons.png)
+
 Razmerje rešenih in nerešenih primerov
 ![Number of crimes committed with weapon](pictures/crime_solved.png)
 
