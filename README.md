@@ -2,8 +2,7 @@
 
 ## Opis problema
 
-Vzeli smo dataset vseh umorov v ZDA od leta 1980 do 2014, ki vsebuje več kot 610000 zapisov o kriminalnih aktivnostih,
-ki so se končale s smrtnim izzidom.
+S strani kaggle smo vzeli dataset vseh umorov v ZDA od leta 1980 do 2014. Ta vsebuje več kot 610000 zapisov o kriminalnih aktivnostih, ki so se končale s smrtnim izzidom.
 
 Zastavili smo si sledeča vprašanja/cilje:
 - [ ] Razmerje rešenih primerov med tipi policije rezdeljene po državah,
