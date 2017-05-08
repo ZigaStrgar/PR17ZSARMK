@@ -1,4 +1,4 @@
-# Vmesno poročilo
+# Analiza umorov v ZDA [1980-2014]
 
 ## Opis problema
 
