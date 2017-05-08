@@ -163,8 +163,6 @@ def solved_by_states():
 	plt.show()
 
 
-
-
 def murders_by_month():
 	meseci = reports[:, 7]
 	c = Counter(meseci)
@@ -185,6 +183,34 @@ def murders_by_month():
 	plt.ylim([40000, 60000])
 	plt.show()
 
+
+def age_distribution():
+	attacker = []
+	victim = []
+	for line in reports:
+		if reports[13] == ' ' or line[18] == ' ':
+			continue
+		if int(line[13]) in (998, 0, ' ') or int(line[18]) in (998, 0, ' '):
+			continue
+		victim.append(int(line[18]))
+		attacker.append(int(line[13]))
+
+	plt.subplot(211)
+	plt.hist(attacker)
+	plt.yticks([])
+	plt.title("Porazdelitev starosti napadalcev")
+	plt.xlabel("Starost napadalca")
+
+	plt.subplot(212)
+	plt.hist(victim)
+	plt.title("Porazdelitev starosti žrtev")
+	plt.xlabel("Starost žrtve")
+	plt.yticks([])
+	plt.tight_layout()
+	plt.show()
+
+
+age_distribution()
 murders_by_month()
 solved_by_states()
 gender_by_race()

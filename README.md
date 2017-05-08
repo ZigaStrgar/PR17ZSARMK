@@ -44,6 +44,9 @@ Razmerje moških morilcev proti ženskim glede na raso
 Število poročil glede na mesec
 ![Number of crimes committed with weapon](pictures/crimes_per_month.png)
 
+Porazdelitev starosti
+![Number of crimes committed with weapon](pictures/age_distribution.png)
+
 ## Uporabljena koda
 
 * work.py
