@@ -20,6 +20,11 @@ državnega organa, ki je primer reševala.
 
 ## Vizualizacija
 
+### Porazdelitev uporabljenega orožja glede na spol
+
+Ženske pri uporabi orožja prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
+![Distribution of weapons used by both sexes](pictures/weapons_sex.png)
+
 Število poročil glede na uporabljeno orožje
 ![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
 
