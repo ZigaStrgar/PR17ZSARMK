@@ -25,6 +25,11 @@ državnega organa, ki je primer reševala.
 Ženske pri uporabi orožja prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
 ![Distribution of weapons used by both sexes](pictures/weapons_sex.png)
 
+### Razmerja rešenih umorov glede na zvezno državo
+
+Najmanj rešenih umorov je v District of Columbia, ogromna razlika pa se opazi v Montani, kjer jih je največ.
+![Solved crimes by state](pictures/solved_state.png)
+
 Število poročil glede na uporabljeno orožje
 ![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
 
