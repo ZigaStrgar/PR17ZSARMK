@@ -6,7 +6,7 @@
 * Povečano število zaporov
 * Višji prihodek
 * 16 september 1994, predsednik Bill Clinton podpiše "Violent Crime Control and Law Enforcement Act", kjer se v obdobju 6 let porabi več kot 30 milijard $ zvezne denarne pomoči
-* Legalizacija splava, kar prepreči kar nekaj zahtevnih otroštev, ki bi po vsej verjetnosti vodila v kriminal
+* Legalizacija splava prepreči kar nekaj zahtevnih otroštev, ki bi po vsej verjetnosti vodila v kriminal
 * V sredini 80-ih se je trg kokaina in kreka večal, padati je zopet začel slabih 10 let pozneje, kar posledično tudi vpliva na padec kriminala povezanega z uporabo teh dveh drog.
 
 ## Statistika
