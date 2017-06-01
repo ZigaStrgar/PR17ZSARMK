@@ -32,7 +32,12 @@ Najmanj rešenih umorov je v District of Columbia, ogromna razlika pa se opazi v
 
 ### Število umorov na leto
 
-
+Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
+- v 90ih se poveča število policistov
+- 16. septembra 1994, predsednik Bill Clinton podpiše "Violent Crime Control and Law Enforcement Act", kjer se v obdobju 6 let porabi več kot 30 milijard $ zvezne denarne pomoči
+- poveča se število zaporov
+- legalizacija splava, kar prepreči kar nekaj zahtevnih otroštev, ki bi po vsej verjetnosti vodila v kriminal
+- povišanje prihodka
 ![Crimes per year](pictures/crimes_per_year.png)
 
 Število poročil glede na uporabljeno orožje
