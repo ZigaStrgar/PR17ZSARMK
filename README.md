@@ -30,6 +30,11 @@ državnega organa, ki je primer reševala.
 Najmanj rešenih umorov je v District of Columbia, ogromna razlika pa se opazi v Montani, kjer jih je največ.
 ![Solved crimes by state](pictures/solved_state.png)
 
+### Število umorov na leto
+
+
+![Crimes per year](pictures/crimes_per_year.png)
+
 Število poročil glede na uporabljeno orožje
 ![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
 
@@ -38,9 +43,6 @@ Uporaba orožja na Havajih
 
 Razmerje rešenih in nerešenih primerov
 ![Number of crimes committed with weapon](pictures/crime_solved.png)
-
-Število poročil glede na leto
-![Number of crimes committed with weapon](pictures/crimes_per_year.png)
 
 Število poročil glede na leto v Kaliforniji
 ![Number of crimes committed with weapon](pictures/crimes_per_year_california.png)
