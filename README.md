@@ -22,12 +22,12 @@ državnega organa, ki je primer reševala.
 
 ### Razmerja spolov žrtev, glede na vrsto umora
 
-Ženske prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
+Ženske kot žrtve prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
 ![Distribution of weapons used by both sexes](pictures/weapon_victim_sex.png)
 
 ### Razmerja spolov storilcev, glede na vrsto umora
 
-Ženske pri umorih prevladujejo pri utopitvi in strupu.
+V umorih pa ženske prevladujejo pri utopitvi in strupu.
 ![Distribution of weapons used by both sexes](pictures/weapon_perpetrator_sex.png)
 
 ### Razmerja rešenih umorov glede na zvezno državo
