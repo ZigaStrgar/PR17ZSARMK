@@ -12,8 +12,7 @@
 ## Statistika
 
 Največ poročil prihaja ravno iz zvezne države Kalifornije, kar je logično glede na to da je to država z največ prebivalci, vendar
- pa se v Kaliforniji še vedno ne zgodi največ kriminala na število prebivalcev. Največ na 100.000 prebivalcev se zgodi na Aljaksi
-, ki je 48-ta po številu prebivalcev. Sledita Nevada (34) in New Mexico (36). Najmanj poročil pa prihaja glede na 100.000 prebivalcev
+ pa se v Kaliforniji še vedno ne zgodi največ kriminala na število prebivalcev. Največ na 100.000 prebivalcev se zgodi na Aljaksi, ki je 48-ta po številu prebivalcev. Sledita Nevada (34) in New Mexico (36). Najmanj poročil pa prihaja glede na 100.000 prebivalcev
 iz Maina (42), Vermonta (49) in Virginia (12).
 
 ### Seznam držav
