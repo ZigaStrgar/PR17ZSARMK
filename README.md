@@ -20,10 +20,15 @@ državnega organa, ki je primer reševala.
 
 ## Vizualizacija
 
-### Porazdelitev uporabljenega orožja glede na spol
+### Razmerja spolov žrtev, glede na vrsto umora
 
-Ženske pri uporabi orožja prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
-![Distribution of weapons used by both sexes](pictures/weapons_sex.png)
+Ženske prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
+![Distribution of weapons used by both sexes](pictures/weapon_victim_sex.png)
+
+### Razmerja spolov storilcev, glede na vrsto umora
+
+Ženske prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
+![Distribution of weapons used by both sexes](pictures/weapon_perpetrator_sex.png)
 
 ### Razmerja rešenih umorov glede na zvezno državo
 
@@ -54,9 +59,6 @@ Razmerje rešenih in nerešenih primerov
 
 Število poročil glede na leto v južni Dakoti
 ![Number of crimes committed with weapon](pictures/crimes_per_year_south_dakota.png)
-
-Razmeje rešenih primerov proti nerešenim po državah
-![Number of crimes committed with weapon](pictures/solved_by_state.png)
 
 Razmerje moških morilcev proti ženskim glede na raso
 ![Number of crimes committed with weapon](pictures/gender_by_race.png)
