@@ -48,7 +48,7 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 #### Število poročil v Kaliforniji po letih
 ![Number of crimes committed with weapon](pictures/crimes_per_year_california.png)
 
-#### Število poročil južni Dakoti po letih
+#### Število poročil v južni Dakoti po letih
 ![Number of crimes committed with weapon](pictures/crimes_per_year_south_dakota.png)
 
 ### Število umorov s posameznim orožjem
@@ -59,9 +59,6 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 
 ### Razmerje med rešenimi in nerešenimi primeri
 ![Number of crimes committed with weapon](pictures/crime_solved.png)
-
-### Razmerje med spoloma morilcev glede na raso
-![Number of crimes committed with weapon](pictures/gender_by_race.png)
 
 ### Število poročil glede na mesec
 ![Number of crimes committed with weapon](pictures/crimes_per_month.png)
