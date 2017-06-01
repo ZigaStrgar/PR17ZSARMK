@@ -43,6 +43,7 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 - poveča se število zaporov
 - legalizacija splava, kar prepreči kar nekaj zahtevnih otroštev, ki bi po vsej verjetnosti vodila v kriminal
 - povišanje prihodka
+
 [Preberi več o umorih](umori_po_letih.md)
 
 ![Crimes per year](pictures/crimes_per_year.png)
