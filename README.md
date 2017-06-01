@@ -20,17 +20,17 @@ državnega organa, ki je primer reševala.
 
 ## Vizualizacija
 
-### Razmerja spolov žrtev, glede na vrsto umora
+### Razmerje spolov žrtev, glede na vrsto umora
 
 Ženske kot žrtve prevladujejo samo pri zadavitvi, zadušitvi in padcu. Pri utopitvi pa sta spola približno izenačena.
 ![Distribution of weapons used by both sexes](pictures/weapon_victim_sex.png)
 
-### Razmerja spolov storilcev, glede na vrsto umora
+### Razmerje spolov storilcev, glede na vrsto umora
 
 V umorih pa ženske prevladujejo pri utopitvi in strupu.
 ![Distribution of weapons used by both sexes](pictures/weapon_perpetrator_sex.png)
 
-### Razmerja rešenih umorov glede na zvezno državo
+### Razmerje rešenih umorov glede na zvezno državo
 
 Najmanj rešenih umorov je v District of Columbia, ogromna razlika pa se opazi v Montani, kjer jih je največ.
 ![Solved crimes by state](pictures/solved_state.png)
@@ -45,13 +45,13 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 - povišanje prihodka
 ![Crimes per year](pictures/crimes_per_year.png)
 
-#### Števila poročil v Kaliforniji po letih
+#### Število poročil v Kaliforniji po letih
 ![Number of crimes committed with weapon](pictures/crimes_per_year_california.png)
 
-#### Števila poročil južni Dakoti po letih
+#### Število poročil južni Dakoti po letih
 ![Number of crimes committed with weapon](pictures/crimes_per_year_south_dakota.png)
 
-### Števila umorov s posameznim orožjem
+### Število umorov s posameznim orožjem
 ![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
 
 #### Na Havajih za razliko od drugod, kot orožje prevladuje topi objekt
@@ -60,10 +60,10 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 ### Razmerje med rešenimi in nerešenimi primeri
 ![Number of crimes committed with weapon](pictures/crime_solved.png)
 
-### Razmerja med spoloma morilcev glede na raso
+### Razmerje med spoloma morilcev glede na raso
 ![Number of crimes committed with weapon](pictures/gender_by_race.png)
 
-### Števila poročil glede na mesec
+### Število poročil glede na mesec
 ![Number of crimes committed with weapon](pictures/crimes_per_month.png)
 
 ### Porazdelitev starosti napadalcev in žrtev
