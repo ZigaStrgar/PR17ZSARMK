@@ -45,28 +45,28 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 - povišanje prihodka
 ![Crimes per year](pictures/crimes_per_year.png)
 
-Število poročil glede na uporabljeno orožje
-![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
-
-Uporaba orožja na Havajih
-![Weapons in Hawaii](pictures/hawaii_weapons.png)
-
-Razmerje rešenih in nerešenih primerov
-![Number of crimes committed with weapon](pictures/crime_solved.png)
-
-Število poročil glede na leto v Kaliforniji
+#### Števila poročil v Kaliforniji po letih
 ![Number of crimes committed with weapon](pictures/crimes_per_year_california.png)
 
-Število poročil glede na leto v južni Dakoti
+#### Števila poročil južni Dakoti po letih
 ![Number of crimes committed with weapon](pictures/crimes_per_year_south_dakota.png)
 
-Razmerje moških morilcev proti ženskim glede na raso
+### Števila umorov s posameznim orožjem
+![Number of crimes committed with weapon](pictures/crimes_by_weapon.png)
+
+#### Na Havajih za razliko od drugod, kot orožje prevladuje topi objekt
+![Weapons in Hawaii](pictures/hawaii_weapons.png)
+
+### Razmerje med rešenimi in nerešenimi primeri
+![Number of crimes committed with weapon](pictures/crime_solved.png)
+
+### Razmerja med spoloma morilcev glede na raso
 ![Number of crimes committed with weapon](pictures/gender_by_race.png)
 
-Število poročil glede na mesec
+### Števila poročil glede na mesec
 ![Number of crimes committed with weapon](pictures/crimes_per_month.png)
 
-Porazdelitev starosti
+### Porazdelitev starosti napadalcev in žrtev
 ![Number of crimes committed with weapon](pictures/age_distribution.png)
 
 ## Uporabljena koda
