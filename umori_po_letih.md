@@ -16,7 +16,8 @@ Največ poročil prihaja ravno iz zvezne države Kalifornije, kar je logično gl
 iz Maina (42), Vermonta (49) in Virginia (12).
 
 ### Seznam držav
-**V katerih se zgodi več kriminala kot je povprečje za ZDA**:
+**V katerih se zgodi več kriminala kot je povprečje za ZDA na 100.000 prebivalcev**:
+
 Alabama, Alaska, Arziona, Arkansas, California, Delaware, Florida, Georgia, Illinois, Indiana, Lousiana, Maryland, Massachusetts,
 Michigan, Missouri, Nevada, New Mexico, New York, Oklahoma, South Carolina, Tennessee, Texas.
 
