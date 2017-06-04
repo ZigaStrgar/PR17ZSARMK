@@ -87,7 +87,7 @@ Razmerje med rasama storilcev in žrtev je približno enako. Mogoče smo pričak
 ![Number of crimes committed with weapon](pictures/age_distribution.png)
 
 ### Napovedovanje
-Z napovedovalnimi modeli poskušamo napovedati ali je bil primer umora rešen ali ne. Ciljna spremenljivka je torej `Crimes solved` iz atributov smo vzeli ven le storilčev spol in, veroizpoved obeh, tako storilca kot žrtve, saj brez teh dveh atributov naši modeli dosegajo boljše rezultate.
+Z napovedovalnimi modeli poskušamo napovedati ali je bil primer rešen ali ne. Ciljna spremenljivka je torej `Crimes solved`. Iz atributov smo izločili storilčev spol in veroizpoved obeh, tako storilca kot žrtve, saj brez teh dveh atributov naši modeli dosegajo boljše rezultate.
 
 Ocene modelov:
 
@@ -104,7 +104,7 @@ Pri gradnji modelov smo uporabili 6500 primerov, ki smo jih razdelili v učno (7
 Pri ocenjevanju smo postopek učenja modelov in ocenjevanja le-teh ponovili 3 krat.
 
 ### Neodgovorjena vprašanja
-Na vprašanje ***Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca*** nismo odgovorili saj smo naknadno ugotovili da je premalo ras, ki bi lahko prinesle kakšno zanimivejšo ugotovitev, saj prevladujeta zgolj 2 rasi ostale pa so zanemarljive. 
+Na vprašanje ***Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca*** nismo odgovorili. Ugotovili smo, da je premalo ras, ki bi lahko prinesle kakšno zanimivejšo ugotovitev, saj prevladujeta zgolj 2, ostale pa so zanemarljive. 
 
 ## Uporabljena koda
 
