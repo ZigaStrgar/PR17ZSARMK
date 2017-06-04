@@ -70,9 +70,10 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 ![Number of crimes committed with weapon](pictures/age_distribution.png)
 
 ### Napovedovanje
-Z napovedovalnimi modeli poskušamo napovedati ali je bil primer umora rešen ali ne. Ciljna spremenljivka je torej **Crimes solved** iz atributov smo vzeli ven le storilčev spol in, veroizpoved obeh, tako storilca kot žrtve, saj brez teh dveh atributov naši modeli dosegajo boljše rezultate.
+Z napovedovalnimi modeli poskušamo napovedati ali je bil primer umora rešen ali ne. Ciljna spremenljivka je torej `Crimes solved` iz atributov smo vzeli ven le storilčev spol in, veroizpoved obeh, tako storilca kot žrtve, saj brez teh dveh atributov naši modeli dosegajo boljše rezultate.
 
 Ocene modelov:
+
 |                     | AUC   |    CA | F1    | Precision | Recall |
 |:-------------------:|-------|------:|-------|-----------|--------|
 | Classification tree | 0.828 | 0.817 | 0.866 | 0.828     | 0.817  |
