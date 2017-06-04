@@ -84,7 +84,10 @@ Ocene modelov:
 
 Pri gradnji modelov smo uporabili 6500 primerov, ki smo jih razdelili v učno (75%) in testno (25%) množico.
 
-Pri ocenjevanju smo pospotek učenja modelov in ocenjevanja le-teh ponovili 3x.
+Pri ocenjevanju smo postopek učenja modelov in ocenjevanja le-teh ponovili 3 krat.
+
+### Neodgovorjena vprašanja
+Na vprašanje ***Ali obstaja povezava med policijami, ki so umor rešili uspešno in raso napadalca*** nismo odgovorili saj smo naknadno ugotovili da je premalo ras, ki bi lahko prinesle kakšno zanimivejšo ugotovitev, saj prevladujeta zgolj 2 rasi ostale pa so zanemarljive. 
 
 ## Uporabljena koda
 
