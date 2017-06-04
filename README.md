@@ -60,6 +60,23 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 #### Na Havajih za razliko od drugod, kot orožje prevladuje topi objekt
 ![Weapons in Hawaii](pictures/hawaii_weapons.png)
 
+### Nekaj razmerij med belci in črnci
+
+#### Vrsta umora
+
+Belci smo bolj nagnjeni k umoru iz malomarnosti.
+![Race - crime type](pictures/race_kills.png)
+
+#### Ne/Rešeni primeri
+
+Med črnci je veliko več primerov ostalo nerešenih.
+![Race - solved](pictures/race_solved.png)
+
+#### Ne/Rešeni primeri
+
+Razmerje med rasama storilcev in žrtev je približno enako. Mogoče smo pričakovali od belcev več "rasističnih" umorov.
+![Race - racism kills](pictures/racism_kills.png)
+
 ### Razmerje med rešenimi in nerešenimi primeri
 ![Number of crimes committed with weapon](pictures/crime_solved.png)
 
