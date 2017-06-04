@@ -69,6 +69,22 @@ Nekaj dejavnikov, ki so vplivali na padec oz. rast kriminala:
 ### Porazdelitev starosti napadalcev in žrtev
 ![Number of crimes committed with weapon](pictures/age_distribution.png)
 
+### Napovedovanje
+Z napovedovalnimi modeli poskušamo napovedati ali je bil primer umora rešen ali ne. Ciljna spremenljivka je torej **Crimes solved** iz atributov smo vzeli ven le storilčev spol in, veroizpoved obeh, tako storilca kot žrtve, saj brez teh dveh atributov naši modeli dosegajo boljše rezultate.
+
+Ocene modelov:
+|                     | AUC   |    CA | F1    | Precision | Recall |
+|:-------------------:|-------|------:|-------|-----------|--------|
+| Classification tree | 0.828 | 0.817 | 0.866 | 0.828     | 0.817  |
+| SVM                 | 0.689 | 0.676 | 0.779 | 0.659     | 0.676  |
+| Naive bayes         | 0.898 | 0.822 | 0.868 | 0.837     | 0.822  |
+| Random forest       | 0.898 | 0.842 | 0.885 | 0.849     | 0.842  |
+| CN2                 | 0.873 | 0.810 | 0.863 | 0.814     | 0.810  |
+
+Pri gradnji modelov smo uporabili 6500 primerov, ki smo jih razdelili v učno (75%) in testno (25%) množico.
+
+Pri ocenjevanju smo pospotek učenja modelov in ocenjevanja le-teh ponovili 3x.
+
 ## Uporabljena koda
 
 * work.py
